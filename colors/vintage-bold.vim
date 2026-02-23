@@ -24,7 +24,7 @@ hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=un
 hi Directory ctermfg=61 ctermbg=NONE cterm=bold guifg=#4772b4 guibg=NONE gui=bold
 hi Folded ctermfg=244 ctermbg=15 cterm=NONE guifg=#7f7f7f guibg=#ffffff gui=NONE
 
-hi Normal ctermfg=232 ctermbg=231 cterm=NONE guifg=#000000 guibg=#ffffff gui=NONE
+hi Normal ctermfg=232 ctermbg=NONE cterm=NONE guifg=#000000 guibg=#ffffff gui=NONE
 hi Boolean ctermfg=30 ctermbg=NONE cterm=bold guifg=#19848a guibg=NONE gui=bold
 hi Character ctermfg=61 ctermbg=NONE cterm=bold guifg=#4772b4 guibg=NONE gui=bold
 hi Comment ctermfg=244 ctermbg=NONE cterm=NONE guifg=#7f7f7f guibg=NONE gui=italic
@@ -42,7 +42,7 @@ hi Function ctermfg=17 ctermbg=NONE cterm=bold guifg=#1a2241 guibg=NONE gui=bold
 hi Identifier ctermfg=19 ctermbg=NONE cterm=bold guifg=#0000a2 guibg=NONE gui=bold
 hi Keyword ctermfg=19 ctermbg=NONE cterm=bold guifg=#0000a2 guibg=NONE gui=bold
 hi Label ctermfg=125 ctermbg=NONE cterm=NONE guifg=#9e0047 guibg=NONE gui=NONE
-hi NonText ctermfg=250 ctermbg=231 cterm=NONE guifg=#bfbfbf guibg=#ffffff gui=NONE
+hi NonText ctermfg=250 ctermbg=NONE cterm=NONE guifg=#bfbfbf guibg=#ffffff gui=NONE
 hi Number ctermfg=90 ctermbg=NONE cterm=NONE guifg=#760078 guibg=NONE gui=NONE
 hi Operator ctermfg=19 ctermbg=NONE cterm=bold guifg=#0000a2 guibg=NONE gui=bold
 hi PreProc ctermfg=19 ctermbg=NONE cterm=bold guifg=#0000a2 guibg=NONE gui=bold
